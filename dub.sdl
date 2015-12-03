@@ -1,0 +1,6 @@
+name "armos-rx"
+description "A minimal D application."
+copyright "Copyright © 2015, lempiji"
+authors "lempiji"
+dependency "rx" version=">=0.1.0"
+dependency "armos" version=">=0.0.1"

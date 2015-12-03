@@ -1,3 +1,9 @@
+
+# =========================
+# Dub
+# =========================
+.dub
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
@@ -16,6 +22,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+*.exe
+*.dll
 
 # =========================
 # Operating System Files
